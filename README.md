@@ -2,6 +2,9 @@
 Data Science analysis project for movie ratings data
 
 
+Note that you will need to do a lot of tests (of your choice, as appropriate) to answer these questions, so to
+cut down on false positives, set the per-test significance level 𝛼 to 0.005 (as per Benjamin et al., 2018).
+
 ### Questions
 
 1) Are movies that are more popular (operationalized as having more ratings) rated higher than movies that
